@@ -18,6 +18,10 @@ adventor is an Advent of Code CLI Tool is a command-line interface application d
 
 ## Usage
 
-To use the tool, run the following command in the terminal:
+- to use the tool, run the following command in the terminal:
 
-WORK IN PROGRESS
+``` adventor generate <OPTIONS> ``` 
+
+- and run this command to see all available commands
+
+``` adventor help ``` 
