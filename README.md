@@ -14,7 +14,6 @@ adventor is an Advent of Code CLI Tool is a command-line interface application d
 - Multi language boilerplate setup
 - Auto submit
 - Turning the problem description into a more readable format and putting it in the problem directory to prevent having to keep checking.
-- ?
 
 ## Usage
 

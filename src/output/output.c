@@ -47,7 +47,6 @@ void print_invalid_arg() {
   printf("  adventor generate <year> <day>\n");
   printf("  adventor list\n");
   printf("  adventor help\n");
-  printf("  adventor exit\n");
   printf("\n");
   printf("For more information, type 'adventor help'.\n");
   printf("========================================\n");
